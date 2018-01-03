@@ -1,0 +1,33 @@
+.center {
+    margin: auto;
+    width: 50%;
+    
+    
+}
+
+.text-box{
+	background-color: #ccc;
+	position: relative;
+	border-color: transparent;
+	
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.btn1-primary{
+  font-size: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-color: #ccc;
+  border-radius: 10px;
+  box-shadow: none;
+  color: white;
+}
+
